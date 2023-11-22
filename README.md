@@ -1,4 +1,4 @@
-# Node.js Server
+# Chat with Node.js & Socket.io
 
 This Node.js server is a basic setup using Express and Socket.io to create a real-time chat locally on port 3000.
 
