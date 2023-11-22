@@ -2,6 +2,13 @@
 
 This Node.js server is a basic setup using Express and Socket.io to create a real-time chat locally on port 3000.
 
+## Members of the team 9° "A" ISW BIS:
+- Mario Alberto Alvarado Olivas
+- José Emmanuel Bayona Ortega
+- Daniel Dávila Barrios
+- Marco Antonio Rodríguez Arreola
+- Adolfo Erick Solís Carrillo
+
 ## Installation
 
 1. Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
