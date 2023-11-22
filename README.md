@@ -26,5 +26,3 @@ This Node.js server is a basic setup using Express and Socket.io to create a rea
 5. Run the server:
     ```bash
     npm run dev
-
-6. Don't forget to add the .env attached file!
